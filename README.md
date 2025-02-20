@@ -6,9 +6,7 @@ Each Jupyter Notebook contains detailed explanations of machine learning concept
 
 This repository is also a great resource for interview preparation, as I compile knowledge from various sources like YouTube videos, Medium blogs, and other references. You'll find links to the original sources for further reading.
 
-💡 Suggestions? If you have any feedback, topic requests, or useful resources to share, feel free to reach out!
-/n
-🔗 LinkedIn: https://www.linkedin.com/in/saisuryavarshith/
+💡 Suggestions? If you have any feedback, topic requests, or useful resources to share, feel free to reach out! 🔗 LinkedIn: https://www.linkedin.com/in/saisuryavarshith/
 
 Stay tuned for more updates, and happy learning! 🚀
 
